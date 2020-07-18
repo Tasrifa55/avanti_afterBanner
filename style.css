@@ -1,0 +1,200 @@
+/*======================
+	General Css
+========================*/
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+/*======== 
+what makes theme unique
+====*/
+
+.top-heading {
+    text-align: center;
+}
+
+.top-heading h2 {
+    padding-top: 100px;
+    font-weight: bold;
+    font-size: 46px;
+}
+
+
+.unique-content {
+    padding-top: 90px;
+}
+
+.unique-content img {
+    width: 85px;
+    height: 85px;
+}
+
+/*----- start PARALLAX -----*/
+
+.PARALLAX {
+    max-width: 255px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.img-border {
+    max-width: 165px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+    border: 9px solid #e1e1e1;
+    border-radius: 50%;
+    transition: .5s;
+}
+
+.img-border:hover {
+    border: 9px solid #b81e1e;
+    transition: .5s;
+}
+
+
+
+.PARALLAX h3 {
+    padding-top: 25px;
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 1px solid #b81e1e;
+}
+
+.PARALLAX p {
+    font-size: 13px;
+    padding-top: 15px;
+}
+
+/*---- end PARALLAX ----*/
+
+/*-------- start MOVABLE ----*/
+
+.MOVABLE {
+    max-width: 255px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.img-border2 {
+    max-width: 165px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+    border: 9px solid #e1e1e1;
+    border-radius: 50%;
+    transition: .5s;
+}
+
+.img-border2:hover {
+    border: 9px solid #29c346;
+    transition: .5s;
+}
+
+.MOVABLE h3 {
+    padding-top: 25px;
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 1px solid #29c346;
+}
+
+.MOVABLE p {
+    font-size: 13px;
+    padding-top: 15px;
+}
+
+/*------ END MOVABLE ----*/
+
+
+/*----- START WOOCOMMERCE -----*/
+
+.WOOCOMMERCE {
+    max-width: 255px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.img-border3 {
+    max-width: 165px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+    border: 9px solid #e1e1e1;
+    border-radius: 50%;
+    transition: .5s;
+}
+
+.img-border3:hover {
+    border: 9px solid #2da7fc;
+    transition: .5s;
+}
+
+.WOOCOMMERCE h3 {
+    padding-top: 25px;
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 1px solid #2da7fc;
+}
+
+.WOOCOMMERCE p {
+    font-size: 13px;
+    padding-top: 15px;
+}
+
+
+/*----- END WOOCOMMERCE -----*/
+
+
+
+/*-------- START CUSTOM -----*/
+
+.CUSTOM {
+    max-width: 255px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.img-border4 {
+    max-width: 165px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+    border: 9px solid #e1e1e1;
+    border-radius: 50%;
+    transition: .5s;
+}
+
+.img-border4:hover {
+    border: 9px solid #ff9100;
+    transition: .5s;
+}
+
+.CUSTOM h3 {
+    padding-top: 25px;
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 1px solid #ff9100;
+}
+
+.CUSTOM p {
+    font-size: 13px;
+    padding-top: 15px;
+}
+
+
+/*-------- START CUSTOM -----*/
